@@ -1,2 +1,1 @@
-# e-book checkout demo example
-Live demos of vibe coding and shipping prototypes end to end. 
+Training demos of the e2e clickable prototype process via Cursor, Figma MCP, and github. 
